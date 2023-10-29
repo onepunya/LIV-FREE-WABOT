@@ -1,0 +1,46 @@
+{
+   "name": "@mr.one",
+   "version": "3.0.1",
+   "description": "WhatsApp Bot (Premium)",
+   "main": "index.js",
+   "scripts": {
+      "start": "node ."
+   },
+   "engines": {
+      "node": "14.x",
+      "npm": "9.x"
+   },
+   "author": "siswanda",
+   "license": "ISC",
+   "dependencies": {
+      "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@6.4.0",
+      "@adiwajshing/keyed-db": "^0.2.4",
+      "@colors/colors": "^1.5.0",
+      "@lanbott/captcha": "^0.0.1",
+      "@lanbott/lanbot-js": "^2.3.3",
+      "axios": "^1.4.0",
+      "javascript-obfuscator": "^4.1.0", 
+      "google-it": "^1.6.4", 
+      "jsdom": "^22.1.0", 
+      "bails": "^4.5.8",
+      "canvacord": "5.4.10",
+      "canvas": "2.9.0",
+      "cfonts": "3.1.1",
+      "express": "^4.18.2",
+      "fetch": "^1.1.0",
+      "json-stable-stringify": "^1.0.2",
+      "knights-canvas": "^1.3.7-a",
+      "makemeazombie": "^1.0.2",
+      "node-cron": "^3.0.0",
+      "node-gtts": "^2.0.2",
+      "nodemailer": "^6.9.0",
+      "openai": "^3.1.0",
+      "os": "^0.1.2",
+      "pino": "^8.15.0",
+      "qrcode": "1.5.0",
+      "spinnies": "^0.5.1",
+      "translate-google-api": "1.0.4",
+      "window": "^4.2.7",
+      "yt-search": "^2.10.3"
+   }
+}
