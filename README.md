@@ -1,4 +1,4 @@
-![mr.one/liv-ai](https://iili.io/JJVxCas.jpg)
+![mr.one/liv-ai](https://iili.io/JBmT61R.jpg)
 
 
 # Liv-ai
@@ -26,7 +26,7 @@ Official Group : [Chatbot](https://chat.whatsapp.com/FRL4FzReE0X4qf8Yy80RkW)
 ### 乂  License
 Copyright (c) 2022 Neoxr . Licensed under the [GNU GPLv3](https://github.com/neoxr/v3.0.1/blob/master/LICENSE)
 [@Neoxr wildan izzudin](https://github.com/neoxr)
-![mr.one](https://pomf2.lain.la/f/wyn7jjgl.jpg) 
+![mr.one](https://iili.io/JBmuTYB.jpg) 
 ## LIV - AI BY MR ONE 
 ![liv-Ai](https://pomf2.lain.la/f/vp17v48.jpg) 
 # Advanced engine v3.5.1
